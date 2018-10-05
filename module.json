@@ -1,4 +1,4 @@
 {
-	"disableAutoUpdate": false,
-	"servers": ["https://raw.githubusercontent.com/valkyr1e-tera/auto-cutscene/master/"]
+  "disableAutoUpdate": false,
+  "servers": ["https://raw.githubusercontent.com/valkyr1e-tera/auto-cutscene/master/"]
 }
